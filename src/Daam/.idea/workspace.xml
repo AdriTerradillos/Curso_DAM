@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ff3a4afb-1de6-46f6-b211-d8e95cb6170a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/DAM_Curso.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Dam.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin02/practica03.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.classpath" beforeDir="false" afterPath="$PROJECT_DIR$/../../.classpath" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Desktop.ini" beforeDir="false" afterPath="$PROJECT_DIR$/../../Desktop.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Base_Datos/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Base_Datos/Primera-Evaluacion/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Base_Datos/Primera-Evaluacion/UT1.Consultas/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Base_Datos/Primera-Evaluacion/UT1.Consultas/Examenes/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Base_Datos/Primera-Evaluacion/UT1.Consultas/Examenes/exRA3_01-Modelo.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Base_Datos/Primera-Evaluacion/UT1.Consultas/Examenes/primer_examen-resuelto.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Base_Datos/Primera-Evaluacion/UT1.Consultas/Practicas/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Base_Datos/Primera-Evaluacion/UT1.Consultas/Practicas/Ejemplos/00_ejemplos-DAM.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Base_Datos/Primera-Evaluacion/UT1.Consultas/Practicas/Ejemplos/00_ejemplos.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Base_Datos/Primera-Evaluacion/UT1.Consultas/Practicas/Ejemplos/01_ejemplos_Funciones-solucion.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Base_Datos/Primera-Evaluacion/UT1.Consultas/Practicas/Ejemplos/02_groupBy-DAM.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Base_Datos/Primera-Evaluacion/UT1.Consultas/Practicas/Ejemplos/02_groupBy-enunciado.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Base_Datos/Primera-Evaluacion/UT1.Consultas/Practicas/Ejemplos/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Base_Datos/Primera-Evaluacion/UT1.Consultas/Practicas/Entregables/00_ejercicio_consultas_basicas_enunciado.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Base_Datos/Primera-Evaluacion/UT1.Consultas/Practicas/Entregables/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Base_Datos/Primera-Evaluacion/UT1.Consultas/Teoria/00_intro.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Base_Datos/Primera-Evaluacion/UT1.Consultas/Teoria/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Base_Datos/Primera-Evaluacion/UT1.Consultas/Teoria/ejercicios_iniciales/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Base_Datos/Primera-Evaluacion/UT1.Consultas/Teoria/ejercicios_iniciales/primera_tabla.ods" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Base_Datos/Primera-Evaluacion/UT1.Consultas/Teoria/mysql_cheat_sheet_a4.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Entornos_Desarrollo/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Entornos_Desarrollo/Primera_Evaluacion/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Entornos_Desarrollo/Primera_Evaluacion/UT1.Desarrollo_Software/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Entornos_Desarrollo/Primera_Evaluacion/UT1.Desarrollo_Software/Teoria/Desarrollo_Software01.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Entornos_Desarrollo/Primera_Evaluacion/UT1.Desarrollo_Software/Teoria/Desarrollo_Software_II.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Entornos_Desarrollo/Primera_Evaluacion/UT1.Desarrollo_Software/Teoria/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Entornos_Desarrollo/Primera_Evaluacion/UT2.Instalacion_Uso_Entornos_Desarrollo/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Entornos_Desarrollo/Primera_Evaluacion/UT2.Instalacion_Uso_Entornos_Desarrollo/Practicas/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Entornos_Desarrollo/Primera_Evaluacion/UT2.Instalacion_Uso_Entornos_Desarrollo/Practicas/Entregables/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Entornos_Desarrollo/Primera_Evaluacion/UT2.Instalacion_Uso_Entornos_Desarrollo/Practicas/Entregables/Tema2.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Entornos_Desarrollo/Primera_Evaluacion/UT2.Instalacion_Uso_Entornos_Desarrollo/Teoria/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Entornos_Desarrollo/Primera_Evaluacion/UT2.Instalacion_Uso_Entornos_Desarrollo/Teoria/IDe.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Fundamentos_Programacion/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Fundamentos_Programacion/Primera_Evaluacion/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Fundamentos_Programacion/Primera_Evaluacion/Practicas/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Fundamentos_Programacion/Primera_Evaluacion/Practicas/prueba_Fundamentos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Fundamentos_Programacion/Primera_Evaluacion/Teoria/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Fundamentos_Programacion/Primera_Evaluacion/Teoria/prueba_teoria_Fundamentos.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Lenguaje_Marcas/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Lenguaje_Marcas/Primera_Evaluacion/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Lenguaje_Marcas/Primera_Evaluacion/Teoria/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Lenguaje_Marcas/Primera_Evaluacion/Teoria/UT1.Introduccion_Lenguaje_Marcas/1. Introducción LM.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Lenguaje_Marcas/Primera_Evaluacion/Teoria/UT1.Introduccion_Lenguaje_Marcas/2. Origen y evolucion LM.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Lenguaje_Marcas/Primera_Evaluacion/Teoria/UT1.Introduccion_Lenguaje_Marcas/3. HTML (1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Lenguaje_Marcas/Primera_Evaluacion/Teoria/UT1.Introduccion_Lenguaje_Marcas/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Lenguaje_Marcas/Primera_Evaluacion/Teoria/UT2.HTML5_CSS/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Lenguaje_Marcas/Primera_Evaluacion/Teoria/UT2.HTML5_CSS/Teoria_Practicas/2_2_CSS_Parte3_Selectores2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Lenguaje_Marcas/Primera_Evaluacion/Teoria/UT2.HTML5_CSS/Teoria_Practicas/3_1_HTML.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Lenguaje_Marcas/Primera_Evaluacion/Teoria/UT2.HTML5_CSS/Teoria_Practicas/3_2_TitulosParrafosListas.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Lenguaje_Marcas/Primera_Evaluacion/Teoria/UT2.HTML5_CSS/Teoria_Practicas/3_4_Enlaces.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Lenguaje_Marcas/Primera_Evaluacion/Teoria/UT2.HTML5_CSS/Teoria_Practicas/3_5_Colores (1).pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Lenguaje_Marcas/Primera_Evaluacion/Teoria/UT2.HTML5_CSS/Teoria_Practicas/3_5_Colores.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Lenguaje_Marcas/Primera_Evaluacion/Teoria/UT2.HTML5_CSS/Teoria_Practicas/3_6_Imagenes.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Lenguaje_Marcas/Primera_Evaluacion/Teoria/UT2.HTML5_CSS/Teoria_Practicas/3_7_Tablas.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Lenguaje_Marcas/Primera_Evaluacion/Teoria/UT2.HTML5_CSS/Teoria_Practicas/5_Ejercicios_Tablas_1.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Lenguaje_Marcas/Primera_Evaluacion/Teoria/UT2.HTML5_CSS/Teoria_Practicas/6_Ejercicios_Tablas_2.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Lenguaje_Marcas/Primera_Evaluacion/Teoria/UT2.HTML5_CSS/Teoria_Practicas/7_CSS.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Lenguaje_Marcas/Primera_Evaluacion/Teoria/UT2.HTML5_CSS/Teoria_Practicas/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/practica01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/practica02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/practica03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/practica04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/practica05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/practica06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/practica07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/practica08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/practica09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/practica10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/practica11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/practica12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/practica13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/practica14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/practica15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/practica16.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/practica17.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/practica18.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/practica19.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/practica20.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/practica21.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/practica22.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/practica23.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/practica24.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin01/practica25.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin02/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin02/practica01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin02/practica02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin03/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin03/practica01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin03/practica02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin03/practica03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin03/practica04.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin03/practica05.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin03/practica06.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin03/practica07.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin03/practica08.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin03/practica09.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin03/practica10.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin03/practica11.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin03/practica12.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin03/practica13.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin03/practica14.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin03/practica15.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin04/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin04/practica01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Practicas/boletin04/practica02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Teoria/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/Teoria/Investigacion.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/UT1.Identificacion_Elementos_Programa_Informatico(RA1)/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/UT1.Identificacion_Elementos_Programa_Informatico(RA1)/Ejemplos/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/UT1.Identificacion_Elementos_Programa_Informatico(RA1)/Ejemplos/inializacionVariables02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/UT1.Identificacion_Elementos_Programa_Informatico(RA1)/Ejemplos/operadoresAritmeticos03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/UT1.Identificacion_Elementos_Programa_Informatico(RA1)/Ejemplos/tiposVariables.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/UT2.Estructuras_Control(RA3)/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/UT2.Estructuras_Control(RA3)/Teoria/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/UT2.Estructuras_Control(RA3)/Teoria/estructura_If_Else01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/UT2.Estructuras_Control(RA3)/Teoria/estructura_switch02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/UT3.Estructuras_Control(RA2)/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/UT3.Estructuras_Control(RA2)/Teoria/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/UT3.Estructuras_Control(RA2)/Teoria/claseRandom03.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/UT3.Estructuras_Control(RA2)/Teoria/claseScanner01.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Programacion/Primera_Evaluacion/UT3.Estructuras_Control(RA2)/Teoria/tiposDatos02.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Sistemas_Informaticos/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Sistemas_Informaticos/Primera_Evaluacion/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Sistemas_Informaticos/Primera_Evaluacion/UT1.Introduccion_Sistemas_Informaticos/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Sistemas_Informaticos/Primera_Evaluacion/UT1.Introduccion_Sistemas_Informaticos/Practicas/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Sistemas_Informaticos/Primera_Evaluacion/UT1.Introduccion_Sistemas_Informaticos/Practicas/practica02_Ca1_Ca2_SM.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Sistemas_Informaticos/Primera_Evaluacion/UT1.Introduccion_Sistemas_Informaticos/Practicas/practica03_sumas_restas.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Sistemas_Informaticos/Primera_Evaluacion/UT1.Introduccion_Sistemas_Informaticos/Practicas/practica05_ejecucion_Programa.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Sistemas_Informaticos/Primera_Evaluacion/UT1.Introduccion_Sistemas_Informaticos/Practicas/practica1.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Sistemas_Informaticos/Primera_Evaluacion/UT1.Introduccion_Sistemas_Informaticos/entregables/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Sistemas_Informaticos/Primera_Evaluacion/UT1.Introduccion_Sistemas_Informaticos/entregables/chequeo&amp;diagnostico.docx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Sistemas_Informaticos/Primera_Evaluacion/UT1.Introduccion_Sistemas_Informaticos/solucion_Practicas/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Sistemas_Informaticos/Primera_Evaluacion/UT1.Introduccion_Sistemas_Informaticos/solucion_Practicas/S.practica01.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Sistemas_Informaticos/Primera_Evaluacion/UT1.Introduccion_Sistemas_Informaticos/solucion_Practicas/S.practica02_Ca1_Ca2_SM.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Sistemas_Informaticos/Primera_Evaluacion/UT1.Introduccion_Sistemas_Informaticos/solucion_Practicas/S.practica03_sumas_restas.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Sistemas_Informaticos/Primera_Evaluacion/UT1.Introduccion_Sistemas_Informaticos/solucion_Practicas/S.practica05_ejecucion.doc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Sistemas_Informaticos/Primera_Evaluacion/UT2.Introduccion_Sistemas_Operativos/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Sistemas_Informaticos/Primera_Evaluacion/UT2.Introduccion_Sistemas_Operativos/Teoria/Desktop.ini" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Modulo_Sistemas_Informaticos/Primera_Evaluacion/UT2.Introduccion_Sistemas_Operativos/Teoria/Introduccion_Sistemas_Operativos01.pdf" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;AdriTerradillos&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/AdriTerradillos/Curso_DAM.git&quot;,
+    &quot;accountId&quot;: &quot;822fc79c-f537-4cd2-82d3-4180bcd06597&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="34etIGczhvXwDbIBMc8i8kPqgFk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Modulo_Programacion.Primera_Evaluacion.Practicas.boletin02.practica03.executor": "Run",
+    "Application.practica03.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Admin/Desktop/DAM_Curso/src/main/java/Modulo_Programacion/Primera_Evaluacion/Practicas/boletin02",
+    "onboarding.tips.debug.path": "C:/Users/Admin/Desktop/DAM_Curso/src/src/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\DAM_Curso\src\main\java\Modulo_Programacion\Primera_Evaluacion\Practicas\boletin02" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\Desktop\DAM_Curso\src\Daam" />
+      <recent name="C:\Users\Admin\Desktop\DAM_Curso\src\Daam\.idea" />
+    </key>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ff3a4afb-1de6-46f6-b211-d8e95cb6170a" name="Changes" comment="" />
+      <created>1761585783848</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1761585783848</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/../src/Main.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
