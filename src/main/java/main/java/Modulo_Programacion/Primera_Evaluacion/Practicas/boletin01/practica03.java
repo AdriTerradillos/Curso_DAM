@@ -18,7 +18,7 @@ public class practica03 {
 
         Scanner teclado = new Scanner(System.in);
 
-        System.out.println(" Introduce un número ");
+        System.out.println(" Introduce un número: ");
         int num = teclado.nextInt();
 
         for(int i = 1; i <= 5; i++) {
